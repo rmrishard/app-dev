@@ -1,5 +1,12 @@
+# File: test_game.py
+#Name : Rishard Mohamed
+#Student Number : 2495235
+
 import unittest
 from game import Game
+
+# Name: <Rishard Mohamed>
+# Student ID: <YOUR STUDENT ID>
 
 
 class TestGame(unittest.TestCase):
